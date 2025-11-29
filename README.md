@@ -8,6 +8,13 @@ Step 2: Now login using your google account on this link: https://myaccount.goog
 
 ---
 
+## CSV format
+
+Make sure that the csv format is of same type and the message should be inside quotes
+
+---
+ 
+
 ## Code walkthrough
 
 1: Only dependency to install is pandas so Install pandas:
@@ -19,7 +26,7 @@ pip install pandas
 
 3: You can change Subject at line 18 in main.py
 
-4: Now change the csv file accordingly and then you can run the file.
+4: Now change the csv file accordingly and then you can run the file main.py.
 
 It will display the names in the console of whether someone has received it or if there is an error.
 
