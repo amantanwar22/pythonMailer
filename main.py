@@ -4,7 +4,7 @@ from email.mime.text import MIMEText
 from email.mime.multipart import MIMEMultipart
 
 SENDER_EMAIL = "jsforwork531@gmail.com"
-APP_PASSWORD = "yajdpbqeznxulizc"
+APP_PASSWORD = "abcdefghijklmnop" #enter here 16 digit password
 # RECEIVER_EMAIL = "aparneshgaurav@gmail.com"
 df = pd.read_csv("emails.csv")
 
